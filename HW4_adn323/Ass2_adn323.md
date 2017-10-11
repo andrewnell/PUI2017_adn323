@@ -1,3 +1,8 @@
+# Assignment 2
+# Andrew Nell
+### I worked with Jon Kastelan and Emily Hansen
+
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Chi Squared	| 1, Gender | Categorical | 1, Choice of Gender-associated Colour of Lenses chosen| Categorical | 1, age | continuous (categorical though) | 	Is the choice of colour of overlays for precision tinted lenses (PTL's) influenced by the patience gender | No colour preference for PTL's per gender | 0.04 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326) |

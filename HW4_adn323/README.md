@@ -1,7 +1,19 @@
 # Assignment 2
 # Andrew Nell
-### I worked with Jon Kastelan and Emily Hansen
 
+### I worked with Jon Kastelan and Emily Hansen on Q2
+
+### I worked on question 1 and 3 by myself
+
+### I worked with help from Alex Shannon for Q4
+
+Question 1 was reviewing the work of Tarek.
+
+Question 2 was reviewing 3 articles and seeing what test they used and what the various components of the test are including Independant and Dependant variables and understanding what their null hypotheses were. 
+
+Question 3 was using the Chi Squared and Z tests in comparing two data sets. and testing whether the differences are negligible so that we can determine if the program is effective in changing the lives of former convicts.
+
+Question 4 was data wrangling and using statistical methods to see if there are relationships between our data sets and the hypthesis posed in the questions, can we reject the null hypothesis and confirm the alternative ones.
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|

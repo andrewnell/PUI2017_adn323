@@ -20,3 +20,5 @@ c. chose an appropriate test to test H0 given the type of data, and the question
 
 
 I DON'T FULLY GRASP WHAT THE CORRECT ANSWER HERE WOULD BE. GIVEN THAT IT IS TWO SETS OF DATA, AND GIVEN WHAT THIS ARTICLE SAYS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/, I WOULD SAY YOU COULD ADD SOME ELEMENT OF PARAMETRIC MODELING TO TEST THIS HYPOTHESIS.
+
+# FBB please review this topic: this is a comparison of 2 means. it does not require parametric modeling at all

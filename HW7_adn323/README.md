@@ -9,4 +9,4 @@ Completion of citibik analysis (withJon Kastelan) and incorporating feedback fro
 
 Publishing Authorea article
 
-
+Article available on 

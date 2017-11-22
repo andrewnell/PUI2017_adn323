@@ -11,7 +11,7 @@ I believe the plot is honest and conveys the information without emphasizing any
 ![bashrc aliases and functions](https://raw.githubusercontent.com/mjs639/PUI2017_mjs639/master/CUSP%20Screenshots/Screen%20Shot%202017-11-11%20at%204.49.07%20PM.png)
 
 
-Figure 1 represents high schools across New York City. The color of each representative dot reflects the average SAT score for 2012. Darker dots represent schools with higher scores, while lighter dots represent schools with lower scores, as per the legend on the top left of the map. 
+#### Figure 1 represents high schools across New York City. The color of each representative dot reflects the average SAT score for 2012. Darker dots represent schools with higher scores, while lighter dots represent schools with lower scores, as per the legend on the top left of the map. 
 
 A link to the interactive map is below, and the notebook used to generate the dataset was uploaded to the original repo.
 

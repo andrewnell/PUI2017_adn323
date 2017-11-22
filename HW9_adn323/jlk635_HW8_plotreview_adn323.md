@@ -11,7 +11,7 @@ I compiled a series of aggregate country level statistics for each of the countr
 
 
 ## Visualisation
-![alt text](https://github.com/andrewnell/PUI2017_jlk635/raw/master/HW8_jlk635/HW8_jlk635_Chernoff_faces_in_R.png)
+<kbd>![alt text](https://github.com/andrewnell/PUI2017_jlk635/raw/master/HW8_jlk635/HW8_jlk635_Chernoff_faces_in_R.png)</kbd>
 
 
 #### Legend

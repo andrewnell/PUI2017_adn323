@@ -1,13 +1,17 @@
 # Review of jlk635 HW8 plot
 # adn323
 
-
+I believe the Chernoff faces are a very interesting and novel way of communicating multi-dimensional data that is often very tricky to convey visually. As a means of conveying all these characteristics it is an effective and clear way of conveying the information. However I do think that trying to convey this much information is difficult and it is hard as a reader to understand all the dimensions without getting confused. Ideally one has a clearer message that they want to convey and does not need to use something as complex as this. 
+Aesthetically, the visualisation provides an easy way for a user to compare the differences between two countries by comparing features of the faces, however, I think that it becomes difficult to understand differences between countries that are not that different or if there are outliers that skew the changes between two countries. There are some features that can become difficult to view, for instance South Africa’s mouth width (Number of Researchers) is so narrow that it becomes difficult to see things like whether there is a smile (unemployement). If possible these should be identified and resolved where possible. The legend attached is clear and concise and provides an easy way to reference what features mean in the chart, however the one feature I did not understand was the colouring of the faces which is not referenced anywhere.
+I believe the chart is honest and is reproducing the data.
+Overall it is an interesting visualisation, however in practice I would avoid using it due to complexity.
+See visualisation and description below.
 
 # The Chernoff faces of CUSP 2017/18
 
-The visualization I have chosen is a plot of **Chernoff faces**. 
+Jon chose to plot avisualisation using the **Chernoff faces**
 
-I compiled a series of aggregate country level statistics for each of the countries represented by CUSP students in the 2017/18 class - along with a few additional misc. countries for comparison purposes. The statistics were mainly urban in nature, relating to the overall economy, mobility, health, education, technology, industry and law and order. A summary of the data is provided in the data section later. The R code is also [provided](https://raw.githubusercontent.com/jkastelan/PUI2017_jlk635/master/HW8_jlk635/HW8_jlk635_Code_for_Chernoff_faces_in_R.txt) in the repo for reference.
+He compiled a series of aggregate country level statistics for each of the countries represented by CUSP students in the 2017/18 class - along with a few additional misc. countries for comparison purposes. The statistics were mainly urban in nature, relating to the overall economy, mobility, health, education, technology, industry and law and order. A summary of the data is provided in the data section later. The R code is also [provided](https://raw.githubusercontent.com/jkastelan/PUI2017_jlk635/master/HW8_jlk635/HW8_jlk635_Code_for_Chernoff_faces_in_R.txt) in the repo for reference.
 
 
 ## Visualisation

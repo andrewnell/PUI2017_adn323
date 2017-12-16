@@ -8,6 +8,10 @@ I think the plot is relatively easy to read and clearly shows the discrepancy be
 
 I believe the plot is honest and conveys the information without emphasizing any point.
 
+FBB ok
+
+10/10
+
 ![bashrc aliases and functions](https://raw.githubusercontent.com/mjs639/PUI2017_mjs639/master/CUSP%20Screenshots/Screen%20Shot%202017-11-11%20at%204.49.07%20PM.png)
 
 

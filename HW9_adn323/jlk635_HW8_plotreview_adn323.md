@@ -11,6 +11,18 @@ Overall it is an interesting visualisation, however in practice I would avoid us
 
 See visualisation and description below.
 
+# FBB ok 
+with a couple of omissions:
+a visualization  like this actually cannot be "honest" because the actual effect size cannot be trivially proportional to the feature value, since the feature is a complex shape, neither can it be tied to a perception. Chernoff faces are intuitive, and ok for comparison, but they are not "quantitative" - could you say which country has twice hiher GDP than which other country? 
+
+also though very importantly Chernoff faces convey an emotional reaction. Because of that the features need to be neutral, or inequivocably positive or negative. IN this case the choice of mapping is wrong:
+
+6	Smiling	Unemployment, total (% of total labor force) (national estimate)
+
+the smile, which is read as a positive feature (and this reading cannot be controlled cause it is innate in human beings) is associated to a very negative fearture: unemployment. 
+
+The review is thorough, and it is difficult to review this plot. so 10/10
+
 # The Chernoff faces of CUSP 2017/18
 
 Jon chose to plot avisualisation using the **Chernoff faces**
